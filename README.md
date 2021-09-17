@@ -3,7 +3,7 @@ SVG United States map that is ready for javascript manipulation
 
 License: Creative Commons [Attribution-Share Alike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
-This a simplified verion of the file with everything nested to make it easier to work with via javascript.\
+This a simplified version of the file with everything nested to make it easier to work with via javascript.\
 Original: https://commons.wikimedia.org/wiki/File:Blank_US_Map_With_Labels.svg
 
 Each state (and DC) are nested within a `g` node with the id of the state 2-letter abbreviation.
